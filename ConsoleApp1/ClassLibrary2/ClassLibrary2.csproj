@@ -31,8 +31,4 @@
     <PackageReference Include="Microsoft.CodeAnalysis.Analyzers" Version="3.11.0-beta1.24072.1"></PackageReference>
     <PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="4.9.0-3.final" />
   </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary2\ClassLibrary2.csproj" OutputItemType="Analyzer" PrivateAssets="all" />
-  </ItemGroup>
 </Project>
