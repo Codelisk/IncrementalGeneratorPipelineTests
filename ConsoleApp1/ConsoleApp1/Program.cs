@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            var xyz = new Test();
             Console.WriteLine("Hello, World!");
         }
     }
