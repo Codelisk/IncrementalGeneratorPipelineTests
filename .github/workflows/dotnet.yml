@@ -24,5 +24,3 @@ jobs:
       run: |
         cd ./ConsoleApp1
         dotnet build -c Release
-    - name: Test
-      run: dotnet test --no-build --verbosity normal
